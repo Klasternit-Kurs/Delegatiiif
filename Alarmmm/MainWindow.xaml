@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:Alarmmm"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+	<StackPanel>
+	    <Button Name="dgm" FontSize="24">Test</Button>
+		<Button Name="dgm2" FontSize="24">Test2</Button>
+	</StackPanel>
 </Window>
